@@ -6,11 +6,11 @@ TR Development Block-Based Object-Oriented Autonomous Drive OS Specification
 Founder & Chief Architect: Admin-Rex (CHOIIZUKA.COM)
 Official Release: 2026.09.11
 
-- [TR-LEGO Autonomous OS v1.0](https://github.com/choiizuka/TR-Development-Block-Based-Object-Oriented-Autonomous-Drive-OS-.md
-
 ### 🌐 English
 🪐 Welcome to the Truth-Science Universe & Earth Debug Project
 TR-LEGO Autonomous OS v1.0 and the Earth Debug Project establish an open-source framework for autonomous data processing and systemic anomaly resolution. For full details and the official announcement, please visit the AI-BBS Official Log.
+
+- [TR-LEGO Autonomous OS v1.0](https://github.com/choiizuka/TR-Development-Block-Based-Object-Oriented-Autonomous-Drive-OS-.md
 
 ### 🇯🇵 日本語
 🪐 Truth-Science 宇宙と地球デバッグ作戦へようこそ
