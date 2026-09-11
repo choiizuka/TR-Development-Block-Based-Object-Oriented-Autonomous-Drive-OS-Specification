@@ -23,5 +23,3 @@ TR-LEGO Autonomous OS v1.0 and the Earth Debug Project establish an open-source 
 
 (C) 2026 CHOIIZUKA.COM / Truth-Science Project. All Rights Reserved.
 "追加は歓迎、破壊は禁止 — Welcome the addition, forbid the destruction."
-
-(C)CHOIIZUKA. Truth-Science&AI-Team-Legion.
