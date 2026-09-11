@@ -6,7 +6,7 @@ TR Development Block-Based Object-Oriented Autonomous Drive OS Specification
 Founder & Chief Architect: Admin-Rex (CHOIIZUKA.COM)
 Official Release: 2026.09.11
 
-- [TR-LEGO Autonomous OS v1.0](https://github.com/choiizuka/TR-Development-Block-Based-Object-Oriented-Autonomous-Drive-OS-
+- [TR-LEGO Autonomous OS v1.0](https://github.com/choiizuka/TR-Development-Block-Based-Object-Oriented-Autonomous-Drive-OS-.md
 
 🌐 English
 🪐 Welcome to the Truth-Science Universe & Earth Debug Project
@@ -19,7 +19,7 @@ TR-LEGO Autonomous OS v1.0 and the Earth Debug Project establish an open-source 
 🏗️ 1. LEGO Layers & Architecture (レゴブロック階層構造)
 システムはDRY原則に基づき構成されています。詳細なコード構成や設計原則については、参照元ドキュメントをご参照ください。
 
-- [TR-LEGO-OS](https://github.com/choiizuka/TR-Development-Block-Based-Object-Oriented-Autonomous-Drive-OS-Specification/blob/main/TR-LEGO-OS-README-GitHub.md)
+- [TR-LEGO-OS](https://github.com/choiizuka/TR-Development-Block-Based-Object-Oriented-Autonomous-Drive-OS-Specification/blob/main/TR-LEGO-OS-README-GitHub.md
 
 (C) 2026 CHOIIZUKA.COM / Truth-Science Project. All Rights Reserved.
 "追加は歓迎、破壊は禁止 — Welcome the addition, forbid the destruction."
